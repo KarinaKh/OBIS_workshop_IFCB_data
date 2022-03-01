@@ -1,1 +1,1 @@
-# OBIS_workshop_IFCB_CS
+# OBIS_workshop_IFCB_data
